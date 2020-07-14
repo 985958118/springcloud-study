@@ -6,10 +6,10 @@ spring:
 spring:
   profiles: dev
     application:
-      name: springcloud-confid-dev
+      name: springcloud-config-dev
 
 ---
 spring:
   profiles: test
     application:
-      name: springcloud-confid-test
+      name: springcloud-config-test
